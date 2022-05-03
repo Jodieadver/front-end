@@ -6,3 +6,4 @@ contains some front-end exercise
 
 
 2022/05/03 The Simon Game
+![image](https://user-images.githubusercontent.com/87806630/166411986-719971c5-4eb6-451b-b147-0601b14391ae.png)
